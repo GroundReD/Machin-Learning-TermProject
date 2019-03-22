@@ -1,0 +1,12 @@
+#!MLF!#
+"tst/m/ar/1o66739.lab"
+seven
+.
+"tst/f/bf/826z358.lab"
+oh
+.
+"tst/f/bf/o937762.lab"
+oh
+two
+.
+
